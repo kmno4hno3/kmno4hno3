@@ -6,8 +6,9 @@ Hi, I'm an Frontend developer. 🤝
 
 
 ## 📈 Status
-[![Followers](https://badgen.org/img/zenn/devtatsu/followers?style=plastic)](https://zenn.dev/devtatsu)
-[![Followers](https://badgen.org/img/qiita/bsj-t-endo/followers?style=plastic)](https://qiita.com/bsj-t-endo)
+[![Likes](https://badgen.org/img/zenn/devtatsu/likes?style=plastic)](https://zenn.dev/devtatsu)
+[![Contributions](https://badgen.org/img/qiita/bsj-t-endo/contributions?style=plastic)](https://qiita.com/bsj-t-endo)
+[![Contributions](https://badgen.org/img/qiita/dev_tatsu/contributions?style=plastic)](https://qiita.com/dev_tatsu)
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmno4hno3&layout=compact&show_icons=true" />
