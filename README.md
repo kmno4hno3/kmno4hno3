@@ -2,7 +2,7 @@
 Hi, I'm an Frontend developer. 🤝
 
 ### 🌱 my skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=ts,js,html,css,jquery,react,nextjs,nuxtjs,vue,sass,tailwind,netlify,aws,git,github,figma,rust,opencv,raspberrypi" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=ts,js,html,css,jquery,react,nextjs,nuxtjs,vue,sass,tailwind,aws,git,github,figma,rust,opencv,raspberrypi" />
 
 
 ## 📈 Status
